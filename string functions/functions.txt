@@ -1,0 +1,14 @@
+strlen	calculates the length of string
+strcat	Appends one string at the end of another
+strncat	Appends first n characters of a string at the end of another
+strcpy	Copies a string into another
+strncpy	Copies first n characters of one string into another
+strcmp	Compares two strings
+strncmp	Compares first n characters of two strings
+strchr	Finds the first occurrence of a given character in a string
+strrchr	Finds the last occurrence of a given character in a string
+strstr	Finds the first occurrence of a given string in another string
+strcspn	Calculates the initial length of a string, not containing any character of the other string
+strspn	Calculates the initial length of a string, containing the only characters of the other string
+strpbrk	Finds the first occurrence of any of the characters of a string in another string
+strtok	splits a string into token

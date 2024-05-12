@@ -1,0 +1,4 @@
+hile (/* condition */)
+    // {
+    //     /* code */
+    // }

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1640602086 source:c:\users\dell\onedrive\desktop\final se\umar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
